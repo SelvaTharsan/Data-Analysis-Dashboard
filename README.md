@@ -8,17 +8,17 @@
 -<a href="https://github.com/SelvaTharsan/Data-Analysis-Dashboard/blob/main/START-Dashboard.xlsx"> Dataset </a>
 <h2>Questions KPIs </h2>
 
-- Sales & Orders Comparison<br>
+- Sales Growth<br>
 
-- Highest Sales & Orders Month<br>
+- Profit Margin<br>
 
-- Customer Demographics<br>
+- Customer Acquisition<br>
 
-- Order Status Breakdown<br>
+- Market-Specific Performance<br>
 
-- Top States by Sales Contribution<br>
+- Customer Satisfaction<br>
 
-- Percentage of Orders Delivered<br>
+- Conversion Rate<br>
 
 - Dashboard Interaction <a href="https://github.com/SelvaTharsan/Data-Analysis-Dashboard/blob/main/Star.png">View Dashboard</a>
 
