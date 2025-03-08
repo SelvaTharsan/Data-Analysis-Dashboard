@@ -37,7 +37,7 @@
 ![Star](https://github.com/user-attachments/assets/9b6e936d-a36c-478e-b222-d3bcbcc2513a)
 
 
-Project Insight
+<h2>Project Insight</h2>
 
 - Sales Performance: Sales in 2022 exceeded the target in every month except for January and February. The sales remained consistently strong, with figures mostly above $200M each month.
 
