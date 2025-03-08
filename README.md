@@ -34,3 +34,6 @@
 
 <h2>Dashboard</h2>
 
+![Star](https://github.com/user-attachments/assets/9b6e936d-a36c-478e-b222-d3bcbcc2513a)
+
+
