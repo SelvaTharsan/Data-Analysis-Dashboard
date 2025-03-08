@@ -7,12 +7,19 @@
 <h2> Dataset used </h2>
 -<a href="https://github.com/SelvaTharsan/Data-Analysis-Dashboard/blob/main/START-Dashboard.xlsx"> Dataset </a>
 <h2>Questions KPIs </h2>
+
 - Sales & Orders Comparison<br>
+
 - Highest Sales & Orders Month<br>
+
 - Customer Demographics<br>
+
 - Order Status Breakdown<br>
+
 - Top 10 States by Sales Contribution<br>
+
 - Best Sales Channel<br>
+
 - Percentage of Orders Delivered<br>
 
 - Dashboard Interaction <a href="https://github.com/SelvaTharsan/Data-Analysis-Dashboard/blob/main/Star.png">View Dashboard</a>
