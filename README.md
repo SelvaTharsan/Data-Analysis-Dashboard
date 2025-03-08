@@ -14,4 +14,5 @@
 - Top 10 States by Sales Contribution<br>
 - Best Sales Channel<br>
 - Percentage of Orders Delivered<br>
-- Dashboard Interaction<br>
+
+- Dashboard Interaction <a href="https://github.com/SelvaTharsan/Data-Analysis-Dashboard/blob/main/Star.png">View Dashboard</a>
