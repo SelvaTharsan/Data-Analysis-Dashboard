@@ -16,9 +16,7 @@
 
 - Order Status Breakdown<br>
 
-- Top 10 States by Sales Contribution<br>
-
-- Best Sales Channel<br>
+- Top States by Sales Contribution<br>
 
 - Percentage of Orders Delivered<br>
 
