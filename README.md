@@ -37,3 +37,15 @@
 ![Star](https://github.com/user-attachments/assets/9b6e936d-a36c-478e-b222-d3bcbcc2513a)
 
 
+Project Insight
+
+- Sales Performance: Sales in 2022 exceeded the target in every month except for January and February. The sales remained consistently strong, with figures mostly above $200M each month.
+
+- Profit Analysis: Profit figures generally mirrored the sales trend. However, the profit margin was lower than expected, especially in the months where sales were higher than the target.
+
+- Customer Analysis: Customer numbers fell short of the target by around 13%, which may suggest that while sales are strong, customer acquisition strategies could be improved to meet targets.
+  
+- Country-Specific Sales: The highest sales were recorded in Argentina, with a significant figure of $953.3M, followed by Brazil and Colombia. These markets performed well in terms of sales in 2022, contributing heavily to the total revenue.
+  
+- Customer Satisfaction: Customer satisfaction scores are relatively high, particularly in the areas of product quality, hygiene, and availability, with scores of 86%, 93%, and 95%, respectively. However, there’s a need for improvement in speed and service, with scores of 54% and 53%.
+
