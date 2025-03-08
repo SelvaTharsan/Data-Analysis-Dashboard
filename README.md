@@ -22,7 +22,7 @@
 
 - Dashboard Interaction <a href="https://github.com/SelvaTharsan/Data-Analysis-Dashboard/blob/main/Star.png">View Dashboard</a>
 
-Process 
+<h2> Process </h2>
 
 Verify data for any missing values and anomalies, and sort out the same.
 
